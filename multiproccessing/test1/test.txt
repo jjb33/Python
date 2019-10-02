@@ -1,0 +1,3 @@
+Python 3.4 introduced a new standard library for dealing with files and paths called pathlib — and it’s great!
+
+To use it, you just pass a path or filename into a new Path() object using forward slashes and it handles the rest:
